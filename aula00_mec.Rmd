@@ -1,0 +1,38 @@
+---
+title: "MA65A - Probabilidade e Estatística"
+subtitle: "Apresentação da Disciplina &#10024;"
+author: "Elizabeth Mie Hashimoto <br> DAMAT-LD"
+output:
+  xaringan::moon_reader:
+    css: [default, default-fonts, meu-tema.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: false
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE,
+                      comment = '',
+                      message = FALSE,
+                      warning = FALSE,
+                      cache = TRUE)
+```
+<style>
+#caixa {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px blue;
+}
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
+# Formação &#127891;
+
+&#10004; Bacharel em Estatística
