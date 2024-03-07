@@ -1,6 +1,6 @@
 ---
-title: "MAT10M - Estatística Aplicada à Engenharia"
-subtitle: "Apresentação da Disciplina &#10024;"
+title: "Estatística Aplicada à Engenharia"
+subtitle: ""
 author: "Elizabeth Mie Hashimoto <br> DAMAT-LD"
 output:
   xaringan::moon_reader:
